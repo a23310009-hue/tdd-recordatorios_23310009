@@ -1,13 +1,13 @@
-# Sistema de Recordatorios para Adultos Mayores
+Sistema de Recordatorios para Adultos Mayores
 
 Este proyecto implementa la metodología TDD para generar recordatorios de citas médicas dirigidas a adultos mayores.
 
-## Pruebas realizadas
+ Pruebas realizadas
 
 - Generación de recordatorio con datos válidos
 - Generación de recordatorio con datos vacíos
 
-## Metodología
+Metodología
 
 Se aplicó TDD (Test Driven Development):
 1. Se creó la prueba primero
