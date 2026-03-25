@@ -1,4 +1,4 @@
-Sistema de Recordatorios para Adultos Mayores
+# Sistema de Recordatorios para Adultos Mayores 
 
 Este proyecto implementa la metodología TDD para generar recordatorios de citas médicas dirigidas a adultos mayores.
 
